@@ -1,0 +1,282 @@
+body{
+    width: 100%;
+}
+
+
+#title {
+
+    background-color: yellow;
+}
+.btn{
+    width: 200px;
+    margin-left: 20px;
+}
+.brand{
+    color: white;
+}
+.container-fluid{
+    padding: auto 7%;
+}
+
+.navbar-brand{
+    font-size: 4rem;
+    padding-right: 70px;
+}
+.nav-link{
+    font-size: 1.5rem;
+}
+.header2{
+    background-color: #073C58;
+    color: white;
+    text-align: center;
+}
+#plan{
+    background-color: #022C43;
+    margin-bottom:0;
+}
+
+#col-plan{
+
+    padding: 7% 15%;
+    line-height: 2;
+}
+.plan-text{
+
+    color: white;
+    font-size: 2rem;
+}
+.hashtag{
+
+    color: yellow;
+    font-size: 1.5rem;
+}
+#plan-btn{
+
+    margin-left: 0;
+    font-size: 1.2rem;
+}
+.circle{
+    width: 350px;
+    height: 350px;
+    background: yellow;
+    margin: 10% auto;
+    border-radius: 50%;
+    position: relative;
+    
+}
+.content{
+   width: inherit;
+   position: absolute;
+   height: auto;
+   top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    font-size: 6rem;
+    text-transform: capitalize;
+    line-height: 1;
+}
+.circle-content1{
+    margin-right: 60px;
+    color: white;
+}
+.circle-content2{
+    margin-left: 60px;
+}
+.best-offers{
+    padding: 7% 15%;
+}
+.img1{
+    height: 150px; 
+    width: 250px;
+    border-radius: 10%; 
+}
+.img2{
+    height: 150px; 
+    width: 250px; 
+    border-radius: 10%;
+}
+.img3{
+    height: 150px; 
+    width: 250px; 
+    border-radius: 10%;
+}
+#image1{
+    text-align: center;
+}
+#image2{
+    text-align: center;
+}
+#image3{
+    text-align: center;
+}
+#cleaning-services{
+    background-color: #FAFAFA;
+padding: 7% 11%;
+}
+.services-header{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.services-span{
+    color: #FFD700;
+}
+.services-img{
+    border-radius: 10%;
+}
+.services-button{
+    margin-top: 100px;
+    text-align: center;
+}
+#services-btn{
+    height: 50px;
+    border-radius: 22px;
+}
+
+/* register section */
+
+
+#register{
+    background-color: #022C43;
+    padding: 7% 7%;
+    line-height: 2;
+}
+#covid{
+    background-color: #FFD700;
+    padding: 7% 7%;
+    line-height: 2;
+}
+.register-header{
+    color: #FFD700;
+    
+}
+.register-p{
+    color: #FFFFFF;
+}
+.register-img{
+    float: left;
+    margin-right: 30px;
+}
+.covid-img{
+    float: left;
+    margin-right: 30px;
+}
+
+/* chooseus section */
+
+.choose-us{
+    text-align: center;
+    padding: 7% 15%;
+    line-height: 2;
+}
+.choose-span{
+    color: yellow;
+}
+#choose-row{
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-right: 20px;
+}
+.clock{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 45px;
+}
+#clock-icon{
+    padding-top: 45px;
+    padding-left: 5px;
+}
+.hands{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 45px;
+}
+#hands-icon{
+    padding-top: 45px;
+    padding-left: 5px;
+}
+.shield{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 45px;
+}
+#shield-icon{
+    padding-top: 45px;
+    padding-left: 5px;
+}
+.choose-header{
+    font-size: 3rem;
+    font-weight: lighter;
+}
+
+/* download section */
+
+.download-img{
+    max-width: 100%;
+    height: auto
+    
+}
+#download-row{
+    position: relative;
+
+}
+.download1-col1{
+    position: absolute;
+  top: 8px;
+  left: 250px;
+  font-size: 18px;
+  line-height: 3;
+}
+.download2-col1{
+    position: absolute;
+    bottom: 50px;
+    left: 250px;
+    font-size: 18px;
+    color: white;
+    line-height: 2.5;
+}
+#btn-down1{
+    border-radius: 12px;
+    width: 150px;
+}
+#btn-services-down{
+    border-radius: 16px;
+    width: 130px;
+}
+
+.fuck{
+    position: absolute;
+    height: 600px;
+    bottom: 20px;
+    right: 80px;
+    font-size: 18px;
+}
+.mdb-cols{
+    background-color: #022C43;
+}
+.footer-get{
+    color: yellow;
+}
+.footer-brand{
+    font-size: 4rem;
+    color: white;
+}
+.quick{
+    color: yellow;
+}
+.footer-services{
+    color: yellow;
+}
+.footer-contact{
+    color: yellow;
+}
+.paragraph-footer{
+    color: white;
+}
